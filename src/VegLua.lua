@@ -133,7 +133,7 @@ end -- Part1.function
 
 --[[
     @name:Part2.function
-    @descripition Executa a função Grow caso existam recursos suficientes.   
+    @descripition Executa a função Grow caso existam recursos suficientes   
 --]]
 Part2 = function(cell)
         if(math.random() < resource) then
